@@ -55,3 +55,6 @@ uploads/
 
 #dotenv files
 .env
+
+# service account
+firebase_service_account.json
