@@ -58,3 +58,6 @@ uploads/
 
 # service account
 firebase-service-account.json
+
+# testing script
+test_api.py
