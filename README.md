@@ -190,9 +190,10 @@ Hydrosense/
 
 This project was developed by:
 
-- *(Your Name Here)*
-- *(Team Member 2 Name Here)*
-- *(Team Member 3 Name Here)*
+- *Edimar Mosquida*
+- *Sean Paul De Guzman*
+- *John Vincent Nogas*
+- *Kyle Raterta*
 
 **University of Science and Technology of Southern Philippines**
 **College of Information Technology and Computing**
